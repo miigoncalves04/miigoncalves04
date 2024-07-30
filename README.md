@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🩷
 
-<!--
-**miigoncalves04/miigoncalves04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Milena Gonçalves
 
-Here are some ideas to get you started:
+-Estou estudando tecnologia no Alura!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Tenho 15 anos!
+
+-Compartilho meus projetos ja finalizados via plataformas
+
+### Entrar em contato comigo 📫
+
+00001119504910sp@al.educacao.sp.gov.br
+
+@mii_goncalves04
+
+https://tenor.com/bwpRv.gif 
